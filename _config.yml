@@ -27,9 +27,8 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "https://adamcrease.dev/photorama/gallery/"  
+  - ABOUT: "https://adamcrease.dev/photorama/about/"
 
 # All translation keys
 translations:
